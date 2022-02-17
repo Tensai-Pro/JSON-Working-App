@@ -1,0 +1,50 @@
+[
+    {
+        "age": 20,
+        "averScore": 3.8,
+        "isSuspended": false,
+        "name": "Иванов Иван Иванович"
+    },
+    {
+        "age": 21,
+        "averScore": 3.9,
+        "isSuspended": false,
+        "name": "Московченко Екатерина Дмитриевна"
+    },
+    {
+        "age": 20,
+        "averScore": 2.3,
+        "isSuspended": true,
+        "name": "Прохоров Максим Викторович"
+    },
+    {
+        "age": 22,
+        "averScore": 4.6,
+        "isSuspended": false,
+        "name": "Серегина Дарья Сергеевна"
+    },
+    {
+        "age": 20,
+        "averScore": 4.7,
+        "isSuspended": false,
+        "name": "Пак Анна Станиславовна"
+    },
+    {
+        "age": 22,
+        "averScore": 2.4,
+        "isSuspended": true,
+        "name": "Доров Андрей Викторович"
+    },
+    {
+        "age": 19,
+        "averScore": 4.3,
+        "isSuspended": false,
+        "name": "Безверхова Евгения Матвеевна"
+    },
+    {
+        "age": 20,
+        "averScore": 4.5,
+        "isSuspended": false,
+        "name": "Мясников Максим Александрович"
+    }
+]
